@@ -1,0 +1,3 @@
+
+pretty = format:%h %Cblue%ad%Creset %Cgreen%s%Creset %an %Cred%D%Creset
+
